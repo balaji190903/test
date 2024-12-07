@@ -4,3 +4,9 @@ def home():
 def palin():
    pass
 print(palin,"ssss")
+
+def register ():
+    print("hello..")
+
+def log():
+    print("hii")   
